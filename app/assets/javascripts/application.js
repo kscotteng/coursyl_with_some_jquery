@@ -46,6 +46,8 @@ function displayGrade(displayType) {
   }
 }
 
+
+
 function hideLastRow() {
   displayGrade(false);
 }
